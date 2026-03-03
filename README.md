@@ -1,10 +1,14 @@
 ## Mountup landing
 
-This app was created using https://getmocha.com.
-Need help or want to join the community? Join our [Discord](https://discord.gg/shDEGBSe2d).
+Landing page em React + Vite pronta para deploy estático no Vercel.
 
-To run the devserver:
+Para rodar localmente:
 ```
 npm install
 npm run dev
+```
+
+Para gerar o build:
+```
+npm run build
 ```
